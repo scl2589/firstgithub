@@ -1,0 +1,18 @@
+html{
+	margin:10%; /*margin from left is 10% of the screen*/
+	margin-top: 20%;
+	font-size: 1.5em; /*em: relative unit that corresponds to the default font size in a user’s browsers*/
+}
+img.profile_pic{
+  width:200px;
+	display:block;
+	/*float: left;*/
+	margin:0px;
+  /*float: right;*/
+	/*margin: 20px*/
+}
+
+
+p.below{
+	/*clear:left;*/
+}
